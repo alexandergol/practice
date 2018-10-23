@@ -2,7 +2,6 @@
 
 #include <string>
 
-
 using namespace std;
 
 
@@ -32,8 +31,6 @@ using namespace std;
 	    if(st1 !=  "fizzbuzz")
           cout<<"Nothing to do"<<endl;
 
-
-
 	    else if (st1 == "fizzbuzz"){
 
 		fizzbuzz(9);
@@ -46,4 +43,3 @@ using namespace std;
 
       return 0;
 }
-
